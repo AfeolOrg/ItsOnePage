@@ -1,0 +1,30 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+
+# Build Output
+dist/
+build/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Internal
+INTERNAL-MANIFEST.md
