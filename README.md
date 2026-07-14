@@ -1,11 +1,12 @@
 # ItsOnePage
 
 ## Own your website.
+
 ### Pay only for your domain.
 
-**Open-source one-page websites without subscriptions, tracking, or vendor lock-in.**
+Open-source one-page websites without subscriptions, tracking, or vendor lock-in.
 
-Build fast, clean, privacy-friendly one-page websites that you fully own and can deploy anywhere.
+Build fast, clean, privacy-friendly one-page websites that you fully own and can deploy almost anywhere.
 
 ---
 
@@ -30,7 +31,7 @@ ItsOnePage takes a different approach.
 - No tracking.
 - No vendor lock-in.
 
-The only thing you should pay for is **your domain**.
+The only thing you should pay for is your domain.
 
 Everything else should be your choice.
 
@@ -60,15 +61,15 @@ Everything else should be your choice.
 - Campaign landing pages
 - Coming soon pages
 
-…and **endless possibilities.**
+...and endless possibilities.
 
 ---
 
-## Deploy
+## Deployment
 
-Deploy wherever you like.
+ItsOnePage is designed to work with free hosting platforms as well as self-hosted environments.
 
-ItsOnePage is designed to work with free static hosting platforms such as:
+Currently planned deployments include:
 
 - GitHub Pages
 - Cloudflare Pages
@@ -90,6 +91,44 @@ The project is currently in its initial design phase.
 Core architecture and documentation are being prepared before implementation begins.
 
 This is the best time to contribute ideas and help shape the project's future.
+
+---
+
+## One Principle
+
+If we recommend it,
+
+we use it ourselves first.
+
+---
+
+## Development Philosophy
+
+ItsOnePage is developed by using ItsOnePage whenever possible.
+
+Before recommending a deployment platform, hosting provider, or workflow, we first deploy the project ourselves using that exact setup.
+
+Documentation follows experience, not assumptions.
+
+If something appears in the documentation, it has been tested in practice—or is clearly marked as a work in progress.
+
+---
+
+## Dogfooding
+
+Current deployments being validated:
+
+- ⏳ Cloudflare Pages
+- ⏳ Custom domain
+- ⏳ Automatic GitHub deployment
+
+Planned validation:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Self-hosted (Nginx)
+- Self-hosted (Caddy)
 
 ---
 
