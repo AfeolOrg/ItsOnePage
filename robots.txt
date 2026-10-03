@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-Disallow: /404.html
-Disallow: /this-page-does-not-exist
-
-Sitemap: https://afeol.com/sitemap.xml
+Sitemap: https://itsonepage.afeol.com/sitemap.xml
