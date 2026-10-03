@@ -26,7 +26,9 @@ Replace the demo's content and SEO URLs with your own. Update canonical, social 
 
 No domain purchase is required. GitHub Pages has usage limits and acceptable-use rules; check them before choosing it for your site. Hosting providers may process request data even when your site contains no visitor-tracking scripts.
 
-This guide follows GitHub documentation. An ItsOnePage deployment on GitHub Pages has not yet been validated by this project.
+Tested in practice: the ItsOnePage presentation site has been published on GitHub Pages without a custom domain at [afeolorg.github.io/ItsOnePage](https://afeolorg.github.io/ItsOnePage/), using the `main` branch and repository root.
+
+The demo uses relative asset paths for fonts, backgrounds, icons, and the manifest. Check these assets after publication. The account-root setup described above follows GitHub documentation; our tested deployment uses a project address.
 
 ## Official documentation
 

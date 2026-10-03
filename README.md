@@ -62,19 +62,23 @@ The live demo uses [GitHub](https://github.com/) for source code management and 
 
 The presentation website uses static HTML, CSS, and local assets. It requires no framework, build step, or application server.
 
-### Validated for the live demo
+### Validated deployments
 
+- GitHub Pages publication without a custom domain: [afeolorg.github.io/ItsOnePage](https://afeolorg.github.io/ItsOnePage/)
 - Cloudflare Pages hosting
 - Custom domain with HTTPS: `itsonepage.afeol.com`
 - Automatic production deployment from the GitHub `main` branch
 
 ### Planned validation
 
-- GitHub Pages
 - Netlify
 - Vercel
 - Self-hosting with Nginx
 - Self-hosting with Caddy
+
+The GitHub Pages deployment has been published successfully. The demo uses relative asset paths so it can also be served under `/ItsOnePage/`.
+
+For a free `github.io` address, see [the guide](docs/GITHUB-PAGES-WITHOUT-DOMAIN.md).
 
 These alternatives have not yet been validated for this project. Hosting configuration and asset paths may need adjustments, especially for deployment under a subdirectory.
 
