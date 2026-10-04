@@ -1,8 +1,8 @@
 # ItsOnePage
 
-## Own your website.
+## Your website. Your files. No required subscription.
 
-### Pay only for your domain.
+Start for free with a hosting-provided address. Add your own domain whenever you want.
 
 Open-source one-page websites without subscriptions, advertising, visitor-tracking scripts, or vendor lock-in.
 

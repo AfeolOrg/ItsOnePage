@@ -261,7 +261,6 @@
         min-height: 100vh;
         min-height: 100svh;
         margin: 0;
-        overflow-x: hidden;
         background: transparent;
         color: #f0f6fc;
       }
@@ -319,6 +318,7 @@
 
       .shell {
         display: grid;
+        grid-template-columns: minmax(0, 1fr);
         gap: 28px;
         padding: clamp(28px, 5vw, 56px);
         border: 1px solid rgb(255 255 255 / 11%);
@@ -329,6 +329,11 @@
           inset 0 1px 0 rgb(255 255 255 / 5%);
         backdrop-filter: blur(14px);
         -webkit-backdrop-filter: blur(14px);
+      }
+
+      .shell > * {
+        min-width: 0;
+        overflow-wrap: anywhere;
       }
 
       .eyebrow {
@@ -528,7 +533,8 @@
         }
 
         h1 {
-          font-size: clamp(3rem, 15vw, 4.6rem);
+          font-size: clamp(1.75rem, 8.2vw, 3.3rem);
+          line-height: 1.1;
         }
 
         .lead {
@@ -676,11 +682,11 @@
         <h1>ItsOnePage</h1>
 
         <p class="lead">
-          Own your website. Pay only for your domain.
+          Your website. Your files. No required subscription.
         </p>
 
         <p class="summary">
-          No domain? Publish for free on GitHub Pages using a github.io address.
+          Start for free with a hosting-provided address. Add your own domain whenever you want.
           <a class="text-link" href="https://github.com/AfeolOrg/ItsOnePage/blob/main/docs/GITHUB-PAGES-WITHOUT-DOMAIN.md" target="_blank" rel="noopener noreferrer">Read the guide</a>.
         </p>
 
