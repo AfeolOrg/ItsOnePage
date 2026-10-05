@@ -33,7 +33,7 @@ A custom domain is optional and paid for separately. Free hosting plans have lim
 ## Perfect for
 
 - Personal websites and digital business cards
-- Portfolios and résumés / CVs
+- Portfolios and resumes / CVs
 - Freelancers and consultants
 - Small and local businesses
 - Startup, product, and app landing pages
