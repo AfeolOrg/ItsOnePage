@@ -1,4 +1,6 @@
-# ItsOnePage
+# ItsOnePage by AFEOL
+
+ItsOnePage is an open-source project by AFEOL for one-page websites. The static demonstration is available now; the website builder remains experimental.
 
 ## Your website. Your files. No required subscription.
 
@@ -9,6 +11,8 @@ Open-source one-page websites without subscriptions, advertising, visitor-tracki
 Fast, clean, privacy-friendly one-page websites that you fully own and can deploy on static hosting platforms or your own server.
 
 **Live demo:** [itsonepage.afeol.com](https://itsonepage.afeol.com/)
+
+**Live demo without a purchased domain:** [afeolorg.github.io/ItsOnePage](https://afeolorg.github.io/ItsOnePage/)
 
 An open-source project by [AFEOL](https://afeol.com/projects/).
 
@@ -58,7 +62,7 @@ Ideas, documentation, design, and testing contributions are welcome.
 
 ## Deployment
 
-The live demo uses [GitHub](https://github.com/) for source code management and [Cloudflare Pages’ free plan](https://pages.cloudflare.com/) for hosting.
+The live demo is published on [GitHub Pages](https://afeolorg.github.io/ItsOnePage/) and [Cloudflare Pages’ free plan](https://pages.cloudflare.com/), with source code managed on [GitHub](https://github.com/AfeolOrg/ItsOnePage).
 
 The presentation website uses static HTML, CSS, and local assets. It requires no framework, build step, or application server.
 
